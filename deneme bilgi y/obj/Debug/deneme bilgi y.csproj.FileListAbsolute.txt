@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\bin\Debug\deneme bilgi y.exe.config
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\bin\Debug\deneme bilgi y.exe
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\bin\Debug\deneme bilgi y.pdb
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme bilgi y.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme_bilgi_y.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme_bilgi_y.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme bilgi y.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme bilgi y.exe
+C:\Users\asus\Desktop\udemy kurs\deneme bilgi y\deneme bilgi y\obj\Debug\deneme bilgi y.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\bin\Debug\deneme bilgi y.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme bilgi y.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme bilgi y.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\bin\Debug\deneme bilgi y.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\bin\Debug\deneme bilgi y.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme bilgi y.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme_bilgi_y.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme_bilgi_y.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\10 soru bilgi yarışması\deneme bilgi y\obj\Debug\deneme bilgi y.csproj.GenerateResource.Cache
